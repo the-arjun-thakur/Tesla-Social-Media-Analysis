@@ -89,11 +89,9 @@ The goal of this project is to transform raw social media data into **meaningful
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview]([dashboard.png](https://github.com/the-arjun-thakur/Tesla-Social-Media-Analysis/blob/main/Tesla%20Dashboard.png))
 
-*(Upload your dashboard image in the repository and name it `dashboard.png`.)*
 
----
 
 ## 📂 Project Files
 
