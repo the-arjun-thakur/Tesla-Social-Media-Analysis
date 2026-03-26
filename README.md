@@ -95,8 +95,6 @@ The goal of this project is to transform raw social media data into **meaningful
 
 ![Dashboard Preview](dashboard.png)
 
-*(Upload your dashboard image in the repository and name it `dashboard.png`.)*
-
 ---
 
 ## 📂 Project Files
