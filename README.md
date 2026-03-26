@@ -5,6 +5,10 @@ Here is a **clean and professional `README.md`** you can directly paste into you
 
 ---
 
+Here is a **clean and professional `README.md`** you can directly paste into your GitHub repository, Arjun. It includes sections, badges, and image preview so your repo looks professional.
+
+---
+
 # 🚗 Tesla Social Media Analysis Dashboard
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
@@ -89,9 +93,11 @@ The goal of this project is to transform raw social media data into **meaningful
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview]([dashboard.png](https://github.com/the-arjun-thakur/Tesla-Social-Media-Analysis/blob/main/Tesla%20Dashboard.png))
+![Dashboard Preview](dashboard.png)
 
+*(Upload your dashboard image in the repository and name it `dashboard.png`.)*
 
+---
 
 ## 📂 Project Files
 
@@ -120,5 +126,6 @@ Tesla-Social-Media-Dashboard
 **Arjun Thakur**
 B.Tech Information Technology
 Data Analytics & Data Science Enthusiast
+
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/arjun-thakur-1911ba296/?skipRedirect=true)
